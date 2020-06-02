@@ -14,6 +14,8 @@
 ----------------
     
 # Hamachi for fedora:
+(Folgendes ist übernommen von: )
+( https://coderwall.com/p/rkz4_w/installing-hamachi-logmein-in-fedora-20 )
 
 After setting up your account in the website, download the source code from https://secure.logmein.com/products/hamachi/download.aspx. Then install the rpm with:
 
